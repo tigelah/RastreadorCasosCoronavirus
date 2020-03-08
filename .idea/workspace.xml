@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="828e8c58-711a-4807-9169-464c3c196708" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/fernando.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_jul_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_slf4j_impl_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/736e832e319223f62552ef4ac19cc02a65bdf40f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a39f6330b97c81d76d454266858d058f46a61854" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6c52f0e43eaf66d754ce2ac5d09f52ef7b36c8b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/rastreadorcoronavirus/models/LocalEstado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_12_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_12_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_31.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_31.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_31.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_31.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_31.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_31.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_2_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_log4j2_2_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_2_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coronavirus-tracker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rastreador-coronavirus.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/coronavirustracker/CoronavirusTrackerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/rastreadorcoronavirus/RastreadorCoronavirusApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/coronavirustracker/controllers/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/rastreadorcoronavirus/controllers/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/coronavirustracker/models/LocationStats.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/coronavirustracker/services/CoronaVirusDataService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/rastreadorcoronavirus/services/CoronaVirusDataService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/javabrains/coronavirustracker/CoronavirusTrackerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/rodrigo/rastreadorcoronavirus/RastreadorCoronavirusApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YQ89qLkQ1gjSMKt55JTx3Vg8gN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/io/javabrains/coronavirustracker" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.295" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RastreadorCoronavirusApplication">
+    <configuration name="CoronavirusTrackerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.javabrains.coronavirustracker.CoronavirusTrackerApplication" />
+      <module name="rastreador-coronavirus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.javabrains.coronavirustracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoronavirusTrackerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rastreador-coronavirus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.javabrains.coronavirustracker.CoronavirusTrackerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RastreadorCoronavirusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rastreador-coronavirus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.rodrigo.rastreadorcoronavirus.RastreadorCoronavirusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CoronavirusTrackerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.20209287" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="828e8c58-711a-4807-9169-464c3c196708" name="Default Changelist" comment="" />
+      <created>1582863309026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582863309026</updated>
+      <workItem from="1583625578877" duration="2038000" />
+      <workItem from="1583628113171" duration="11000" />
+      <workItem from="1583672284370" duration="1119000" />
+      <workItem from="1583673419769" duration="22000" />
+      <workItem from="1583673486321" duration="652000" />
+      <workItem from="1583674775499" duration="1269000" />
+      <workItem from="1583676076572" duration="311000" />
+      <workItem from="1583676400265" duration="2631000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="105" width="800" height="677" key="#Notifications" timestamp="1583625589929">
+      <screen x="0" y="27" width="1600" height="836" />
+    </state>
+    <state x="395" y="105" width="800" height="677" key="#Notifications/0.27.1600.836@0.27.1600.836" timestamp="1583625589929" />
+    <state x="208" y="133" width="1075" height="677" key="#Project_Structure" timestamp="1583625692910">
+      <screen x="0" y="27" width="1600" height="836" />
+    </state>
+    <state x="208" y="133" width="1075" height="677" key="#Project_Structure/0.27.1600.836@0.27.1600.836" timestamp="1583625692910" />
+    <state x="709" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1582866882967">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state x="709" y="236" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1045@0.23.1792.1045" timestamp="1582866882967" />
+    <state x="640" y="336" width="310" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583625716897">
+      <screen x="0" y="27" width="1600" height="836" />
+    </state>
+    <state x="640" y="336" width="310" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1600.836@0.27.1600.836" timestamp="1583625716897" />
+    <state x="518" y="27" width="544" height="836" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583672679103">
+      <screen x="0" y="27" width="1600" height="836" />
+    </state>
+    <state x="518" y="27" width="544" height="836" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1600.836@0.27.1600.836" timestamp="1583672679103" />
+    <state width="1219" height="199" key="GridCell.Tab.0.bottom" timestamp="1583678682677">
+      <screen x="0" y="27" width="1600" height="836" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.bottom/0.23.1792.1045@0.23.1792.1045" timestamp="1582877759182" />
+    <state width="1219" height="199" key="GridCell.Tab.0.bottom/0.27.1600.836@0.27.1600.836" timestamp="1583678682677" />
+    <state width="1219" height="199" key="GridCell.Tab.0.center" timestamp="1583678682676">
+      <screen x="0" y="27" width="1600" height="836" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.center/0.23.1792.1045@0.23.1792.1045" timestamp="1582877759182" />
+    <state width="1219" height="199" key="GridCell.Tab.0.center/0.27.1600.836@0.27.1600.836" timestamp="1583678682676" />
+    <state width="1219" height="199" key="GridCell.Tab.0.left" timestamp="1583678682676">
+      <screen x="0" y="27" width="1600" height="836" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.left/0.23.1792.1045@0.23.1792.1045" timestamp="1582877759181" />
+    <state width="1219" height="199" key="GridCell.Tab.0.left/0.27.1600.836@0.27.1600.836" timestamp="1583678682676" />
+    <state width="1219" height="199" key="GridCell.Tab.0.right" timestamp="1583678682676">
+      <screen x="0" y="27" width="1600" height="836" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.right/0.23.1792.1045@0.23.1792.1045" timestamp="1582877759182" />
+    <state width="1219" height="199" key="GridCell.Tab.0.right/0.27.1600.836@0.27.1600.836" timestamp="1583678682676" />
+    <state width="1219" height="199" key="GridCell.Tab.1.bottom" timestamp="1583678682677">
+      <screen x="0" y="27" width="1600" height="836" />
+    </state>
+    <state width="1219" height="199" key="GridCell.Tab.1.bottom/0.27.1600.836@0.27.1600.836" timestamp="1583678682677" />
+    <state width="1219" height="199" key="GridCell.Tab.1.center" timestamp="1583678682677">
+      <screen x="0" y="27" width="1600" height="836" />
+    </state>
+    <state width="1219" height="199" key="GridCell.Tab.1.center/0.27.1600.836@0.27.1600.836" timestamp="1583678682677" />
+    <state width="1219" height="199" key="GridCell.Tab.1.left" timestamp="1583678682677">
+      <screen x="0" y="27" width="1600" height="836" />
+    </state>
+    <state width="1219" height="199" key="GridCell.Tab.1.left/0.27.1600.836@0.27.1600.836" timestamp="1583678682677" />
+    <state width="1219" height="199" key="GridCell.Tab.1.right" timestamp="1583678682677">
+      <screen x="0" y="27" width="1600" height="836" />
+    </state>
+    <state width="1219" height="199" key="GridCell.Tab.1.right/0.27.1600.836@0.27.1600.836" timestamp="1583678682677" />
+    <state x="354" y="27" width="1024" height="836" key="SettingsEditor" timestamp="1583676387735">
+      <screen x="0" y="27" width="1600" height="836" />
+    </state>
+    <state x="397" y="184" key="SettingsEditor/0.23.1792.1045@0.23.1792.1045" timestamp="1582864209243" />
+    <state x="354" y="27" width="1024" height="836" key="SettingsEditor/0.27.1600.836@0.27.1600.836" timestamp="1583676387735" />
+    <state x="679" y="330" key="chooseDestDirectoryDialog" timestamp="1582865330854">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state x="679" y="330" key="chooseDestDirectoryDialog/0.23.1792.1045@0.23.1792.1045" timestamp="1582865330854" />
+    <state x="573" y="377" key="com.intellij.ide.util.TipDialog" timestamp="1582863320118">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state x="573" y="377" key="com.intellij.ide.util.TipDialog/0.23.1792.1045@0.23.1792.1045" timestamp="1582863320118" />
+    <state x="561" y="266" width="670" height="676" key="search.everywhere.popup" timestamp="1582864324011">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state x="561" y="266" width="670" height="676" key="search.everywhere.popup/0.23.1792.1045@0.23.1792.1045" timestamp="1582864324011" />
+  </component>
+</project>
